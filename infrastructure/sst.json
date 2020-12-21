@@ -1,6 +1,6 @@
 {
   "name": "poggers-infra",
   "type": "@serverless-stack/resources",
-  "stage": "dev",
+  "stage": "prod",
   "region": "eu-central-1"
 }
