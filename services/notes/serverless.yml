@@ -127,3 +127,5 @@ functions:
           method: post
           cors: true
           authorizer: aws_iam
+
+foo: bar
